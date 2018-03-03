@@ -1,9 +1,6 @@
 # treasure-hunt-black-widow
 Treasure Hunt Clue.
 
-<div style="text-align: center;">
-  <img style="margin: 0 auto; width: 20%; height: auto;" src="https://raw.githubusercontent.com/LuisMauri89/treasure-hunt-black-widow/master/assets/rebel-symbol.jpg">
-</div>
 
 ![REBEL](https://raw.githubusercontent.com/LuisMauri89/treasure-hunt-black-widow/master/assets/rebel-symbol.jpg)
 
